@@ -1,8 +1,8 @@
-#  Skill Name
+#  Skill Name Uploading Video to Cloud
 
-Author: FirstName LastName
+Author: Arnav Gupta
 
-Date: YYYY-MM-DD
+Date: 2020-01-27
 -----
 
 ## Summary
@@ -16,5 +16,13 @@ Date: YYYY-MM-DD
 
 ## Supporting Artifacts
 
+<!DOCTYPE html>
+<html lang = "en-US">
+<body>
+  <div>
+    <a href="https://drive.google.com/file/d/1ORtQkmdKfsH5NmU07JJDm6YqZVsGUwb4/view?usp=sharing">Introduction Video</a>
+  </div>
+</body>
+</html>
 
 -----
