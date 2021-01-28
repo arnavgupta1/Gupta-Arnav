@@ -1,12 +1,12 @@
 #  Skill Name
 
-Author: FirstName LastName
+Author: Arnav Gupta
 
-Date: YYYY-MM-DD
+Date: 2020-01-27
 -----
 
 ## Summary
-
+I am changing this file so that I can demonstrate I can push to github.
 
 ## Sketches and Photos
 

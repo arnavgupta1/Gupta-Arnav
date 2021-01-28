@@ -1,12 +1,12 @@
 #  Skill Name
 
-Author: FirstName LastName
+Author: Arnav Gupta
 
-Date: YYYY-MM-DD
+Date: 2020-01-27
 -----
 
 ## Summary
-
+I will be using Atom as my IDE of choice.
 
 ## Sketches and Photos
 
