@@ -14,7 +14,7 @@ Date: 2020-02-01
 <html lang = "en-US">
 <body>
   <div>
-    <img src="images/Screen Shot 2021-02-01 at 10.19.04 PM" alt="Summary">
+    <img src="images/Screen Shot 2021-02-01 at 10.19.04 PM.png" alt="Summary">
   </div>
 </body>
 </html>
