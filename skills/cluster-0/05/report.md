@@ -1,8 +1,8 @@
 #  Skill Name
 
-Author: FirstName LastName
+Author: Arnav Gupta
 
-Date: YYYY-MM-DD
+Date: 2020-02-01
 -----
 
 ## Summary
@@ -10,6 +10,14 @@ Date: YYYY-MM-DD
 
 ## Sketches and Photos
 
+<!DOCTYPE html>
+<html lang = "en-US">
+<body>
+  <div>
+    <img src="pic_trulli.jpg" alt="Italian Trulli">
+  </div>
+</body>
+</html>
 
 ## Modules, Tools, Source Used Including Attribution
 

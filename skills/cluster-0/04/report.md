@@ -16,13 +16,5 @@ Date: 2020-01-27
 
 ## Supporting Artifacts
 
-<!DOCTYPE html>
-<html lang = "en-US">
-<body>
-  <div>
-    <a href="https://drive.google.com/file/d/1ORtQkmdKfsH5NmU07JJDm6YqZVsGUwb4/view?usp=sharing">Introduction Video</a>
-  </div>
-</body>
-</html>
 
 -----
