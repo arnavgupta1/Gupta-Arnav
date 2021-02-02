@@ -14,7 +14,7 @@ Date: 2020-02-01
 <html lang = "en-US">
 <body>
   <div>
-    <img src="pic_trulli.jpg" alt="Italian Trulli">
+    <img src="images/Screen Shot 2021-02-01 at 10.19.04 PM" alt="Summary">
   </div>
 </body>
 </html>
