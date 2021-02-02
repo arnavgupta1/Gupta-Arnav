@@ -1,13 +1,13 @@
 #  Skill Name
 
-Author: FirstName LastName
+Author: Arnav Gupta
 
-Date: YYYY-MM-DD
+Date: 2020-02-1
 -----
 
 ## Summary
 
-
+I have completed the assignment and added the group to blackboard.
 ## Sketches and Photos
 
 
